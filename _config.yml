@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Obvious
+subtitle: "Develop Story Board Blog"
+email: marjoram1984@gmail.com
+name: Ho Young Cho
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Develop Story Board Blog
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://marjoram1984.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -72,29 +72,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: marjoram1984
+    url: https://twitter.com/marjoram1984
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: lastfirsthero
     url:
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: marjoram1984
+    url: https://github.com/marjoram1984
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: marjoram1984
+    url: https://www.linkedin.com/in/%ED%98%B8%EC%98%81-%EC%A1%B0-4a3402170/
     desc: Connect with me on LinkedIn
     share: true
 
