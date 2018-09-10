@@ -9,6 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
+locale: "ko"
 title: Obvious
 subtitle: "Develop Story Board Blog"
 email: marjoram1984@gmail.com

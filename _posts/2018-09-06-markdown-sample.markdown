@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-18 08:43:59
+title:  "Markdown test"
+date:   2018-09-06 11:55:59
 author: Ben Centra
 categories: Jekyll
 tags:	jekyll welcome
